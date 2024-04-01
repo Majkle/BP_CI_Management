@@ -2,7 +2,7 @@ assignments:
   - subject: 'BCSH3'
     name: 'BP_CI_Maven_HD'
     deadline: '2024-03-02T00:00'
-    checkIntervalCron: '*/5 * * * * *'
+    checkIntervalCron: '* * */5 * * *'
     sourceRepositoryUrl: 'https://github.com/Majkle/BP_CI_Maven_Source.git'
     configPath: 'master/jenkins/config/defaultConfig.xml'
     jenkinsfilePath: 'master/jenkins/jenkinsfile/Maven.Jenkinsfile'
