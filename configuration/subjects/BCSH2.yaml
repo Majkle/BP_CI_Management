@@ -1,0 +1,17 @@
+subjects:
+  - abbreviation: 'BCSH2'
+    repositoryUrlTemplate: 'https://github.com/%STUDENT-GIT-ID%/%ASSIGNMENT-NAME%.git'
+    students:
+      - stId: 'st12345'
+        name: 'Pepa Von Depa'
+        gitId: 'notPepikVonDepik'
+        groups:
+          - 'ut15'
+      - stId: 'st000'
+        name: 'Nob ody'
+        gitId: 'nobody'
+        groups: 'st16'
+      - stId: 'st67089'
+        name: 'aaaaa bbbb'
+        gitId: 'Majkle'
+        groups: 'st16'

@@ -1,0 +1,8 @@
+subjects:
+  - abbreviation: 'SEM_A'
+    repositoryUrlTemplate: 'https://github.com/%STUDENT-GIT-ID%/%ASSIGNMENT-NAME%.git'
+    students:
+      - stId: 'st5555555555'
+        name: 'Pepa Von Depa'
+        gitId: 'Majkle'
+        groups: 'po08'

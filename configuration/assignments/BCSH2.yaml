@@ -1,0 +1,8 @@
+assignments:
+  - subject: 'BCSH2'
+    name: 'Los_zadanos'
+    deadline: '2024-03-02T00:00'
+    checkIntervalCron: '* * * * * *'
+    sourceRepositoryUrl: 'https://gitserver.com/assignment/BCSH2/exercise-01/'
+    configPath: 'master/jenkins/config/defaultConfig.xml'
+    jenkinsfilePath: 'master/jenkins/jenkinsfile/Maven.Jenkinsfile'

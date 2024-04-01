@@ -1,0 +1,6 @@
+configurationPaths:
+  - 'master/configuration/assignments/BCSH2.yaml'
+  - 'master/configuration/assignments/BCSH3.yaml'
+  - 'master/configuration/subjects/BCSH2.yaml'
+  - 'master/configuration/subjects/BCSH3.yaml'
+  - 'master/configuration/subjects/SEM_A.yaml'
